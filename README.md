@@ -21,7 +21,7 @@ Download the repository from GitHub, and start developing :)
 Game Instructions:
 ============
 
-As the game begins, 6 monsters will appear on the screen and will start moving slowly at your direction.
+As the game begins, 5 monsters will appear on the screen and will start moving slowly at your direction.
 
 Your spaceship must shoot all space aliens before they reach you.
 
